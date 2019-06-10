@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.mehmetaydin.hastanerandevusistemi">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/hospital"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".RandevuGecmisDetay" />
+        <activity android:name=".RandevuGecmisi" />
+        <activity android:name=".FavoriBilgi" />
+        <activity android:name=".Favorilerim" />
+        <activity android:name=".SifreDegistir" />
+        <activity android:name=".Profilim" />
+        <activity android:name=".HastaBilgiGuncelle" />
+        <activity android:name=".KisitKaldir" />
+        <activity android:name=".RandevuBilgi" />
+        <activity android:name=".SaatKisitla" />
+        <activity android:name=".RandevuAl" />
+        <activity android:name=".HastaHomePage" />
+        <activity
+            android:name=".RegisterActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity
+            android:name=".LoginActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity android:name=".DoktorGuncelle" />
+        <activity android:name=".DoktorSil" />
+        <activity android:name=".DoktorEkle" />
+        <activity android:name=".BolumGuncelle" />
+        <activity android:name=".BolumSil" />
+        <activity android:name=".HastaneGuncelle" />
+        <activity android:name=".BolumEkle" />
+        <activity android:name=".HastaneSil" />
+        <activity android:name=".HastaneEkle" />
+        <activity
+            android:name=".Splash"
+            android:theme="@style/Theme.AppCompat.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Anasayfa" />
+        <activity
+            android:name=".MainActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity android:name=".DoktorAnasayfa" />
+        <activity android:name=".DoktorProfil" />
+        <activity android:name=".DoktorRandevu"></activity>
+    </application>
+
+</manifest>

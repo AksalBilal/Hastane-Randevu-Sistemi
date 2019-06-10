@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "692046645955",
+    "firebase_url": "https://hastanerandevusistemi-30be1.firebaseio.com",
+    "project_id": "hastanerandevusistemi-30be1",
+    "storage_bucket": "hastanerandevusistemi-30be1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692046645955:android:796031b247fa18b3",
+        "android_client_info": {
+          "package_name": "com.mehmetaydin.hastanerandevusistemi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692046645955-q7r6obrn4jukp5kjl0g1rgc66og3je2i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mehmetaydin.hastanerandevusistemi",
+            "certificate_hash": "3c99a6de6bef6b14daa20b8420a1b75738612e83"
+          }
+        },
+        {
+          "client_id": "692046645955-s2r76pt2gm558l2ma5og2ilq1c3no4rk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB17fq4RA_R7GNCPpLuJFMUKeqmKWnz3eg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692046645955-s2r76pt2gm558l2ma5og2ilq1c3no4rk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

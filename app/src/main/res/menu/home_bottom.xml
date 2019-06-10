@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_randevu"
+        android:icon="@drawable/ic_list_black_24dp"
+        android:title="Randevular"/>
+    <item
+        android:id="@+id/nav_favoriler"
+        android:icon="@drawable/ic_favorite_black_24dp"
+        android:title="Favoriler"/>
+    <item
+        android:id="@+id/nav_profile"
+        android:icon="@drawable/ic_person_black_24dp"
+        android:title="Hesap"/>
+
+</menu>
